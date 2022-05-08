@@ -28,7 +28,7 @@ Korfu sala Grieķijā
 
 ### Top moto/meme:
 
-![](C:\Users\Dators\Majasdarbs\img\Kluda.jpg)
+![Kluda](https://img2.spoki.lv/upload2/articles/84/843265/images/Neredzets-bujans-952--36.jpg)
 
 ### Daži fun facts:
 * Ģimenē esam 4 māsas; 3 no visām esam dzimušas vienā gadā, bet neesam trīnes
