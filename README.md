@@ -27,7 +27,7 @@ Picas un visdažādākās kūkas, it sevišķi - siera kūkas. Bet kopumā padod
 Korfu sala Grieķijā
 
 ### Top moto/meme:
-![Kluda](../img/kluda.jpg)
+![Kluda](img/kluda.jpg)
 
 ### Daži fun facts:
 * Ģimenē esam 4 māsas; 3 no visām esam dzimušas vienā gadā, bet neesam trīnes
